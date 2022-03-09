@@ -1,4 +1,4 @@
-# Lab 02
+# Lab 03
 
 ### Lab Notebook 1
 Click here to open the lab in Amazon Studio: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/surrey-nlp/NLP-2022/blob/main/lab03/lab03-01.ipynb)<br/>

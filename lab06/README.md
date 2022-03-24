@@ -1,6 +1,6 @@
-# Lab 04
+# Lab 06
 
-### Lab Notebook
+### Lab Notebooks
 
 ## Lab 06 - 1A
 Click here to open the lab in Amazon Studio: [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/surrey-nlp/NLP-2022/blob/main/lab06/lab06-1a.ipynb)<br/>
